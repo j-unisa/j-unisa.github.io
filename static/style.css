@@ -5,7 +5,7 @@
 }
 
 /* Top right links class */
-.top-right-links
+.top-right-links 
 {
   position: fixed;
   top: 0;
@@ -15,3 +15,7 @@
 }
 
 /* Top right links selector */
+.top-right-links a
+{
+  margin-left: 10px;
+}
