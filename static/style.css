@@ -4,7 +4,8 @@
   background-color: #151B54;
 }
 
-/* Top right links */
+/* Top right links class */
+.top-right-links
 {
   position: fixed;
   top: 0;
@@ -12,3 +13,5 @@
   padding: 10px;
   font-size: 12px;
 }
+
+/* Top right links selector */
