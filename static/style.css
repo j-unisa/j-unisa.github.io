@@ -4,6 +4,11 @@
   background-color: rgb(15 23 42);
 }
 
+body
+{
+  color: rgb(148 163 184);
+}
+
 /* Top right links class */
 .top-right-links 
 {
