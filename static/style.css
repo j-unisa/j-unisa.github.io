@@ -3,3 +3,12 @@
 {
   background-color: #151B54;
 }
+
+/* Top right links */
+{
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding: 10px;
+  font-size: 12px;
+}
