@@ -1,0 +1,9 @@
+-change font colors
+-adjust padding for left side
+-adjust oadding for right side
+-add about
+-add experience/education
+-add projects
+-create table of contents links
+-add link to resume
+-add links to github and linkedin maybe?
