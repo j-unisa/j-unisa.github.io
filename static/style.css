@@ -6,8 +6,24 @@
 
 body
 {
-  color: rgb(148 163 184);
   font-family: 'Sans-serif', Arial, sans-serif;
+  display: flex;
+  margin: 0;
+  height: 100vh;
+}
+
+.left-side
+{
+  flex: 0 0 200px; /* Fixed width */
+  padding: 20px;
+  overflow: hidden; /* Prevent content overflow */
+}
+
+.right-side
+{
+  flex: 1; /* Allow right side to take remaining width */
+  overflow-y: auto; /* Enable vertical scrolling */
+  padding: 20px;
 }
 
 /* Top right links class */
