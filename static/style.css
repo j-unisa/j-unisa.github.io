@@ -7,6 +7,7 @@
 body
 {
   font-family: 'Sans-serif', Arial, sans-serif;
+  /* TODO: font color */
   display: flex;
   margin: 0;
   height: 100vh;
@@ -15,7 +16,7 @@ body
 .left-side
 {
   flex: 0 0 200px; /* Fixed width */
-  padding: 100px;
+  padding: 100px; /* TODO */
   overflow: hidden; /* Prevent content overflow */
 }
 
@@ -23,7 +24,7 @@ body
 {
   flex: 1; /* Allow right side to take remaining width */
   overflow-y: auto; /* Enable vertical scrolling */
-  padding: 20px;
+  padding: 20px; /* TODO */
 }
 
 /* Top right links class */
