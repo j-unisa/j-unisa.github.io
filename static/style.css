@@ -1,11 +1,6 @@
-/* Dark navy background  */
-.bg-dark-navy
-{
-  background-color: rgb(15 23 42);
-}
-
 body
 {
+  background-color: rgb(15 23 42);
   font-family: 'Sans-serif', Arial, sans-serif;
   color: #708090;
   display: flex;
