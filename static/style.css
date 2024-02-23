@@ -7,7 +7,7 @@
 body
 {
   font-family: 'Sans-serif', Arial, sans-serif;
-  /* TODO: font color */
+  color: slate;
   display: flex;
   margin: 0;
   height: 100vh;
