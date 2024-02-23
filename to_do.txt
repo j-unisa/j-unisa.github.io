@@ -6,4 +6,5 @@
 -add projects
 -create table of contents links
 -add link to resume
+-add link to full project list if not enough room
 -add links to github and linkedin maybe?
