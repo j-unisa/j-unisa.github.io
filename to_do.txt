@@ -1,4 +1,8 @@
--change font colors
+-change font colors of:
+    -name
+    -job title
+    -link hovered over
+    -table of contents currently being looked at
 -adjust padding for left side
 -adjust oadding for right side
 -add about
