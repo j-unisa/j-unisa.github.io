@@ -1,6 +1,16 @@
 a 
 {
-  color: #708090
+  color: #708090;
+}
+
+a:hover 
+{
+  color: #708090;
+}
+
+a:visited 
+{
+  color: #708090;
 }
 
 body
