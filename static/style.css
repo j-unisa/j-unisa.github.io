@@ -33,7 +33,7 @@ body
 
 li::before 
 {
-  content: "X"; /* em dash */
+  content: "\2014"; /* em dash */
   font-size: 20px;
   margin-right: 5px
 }
