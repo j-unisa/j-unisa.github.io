@@ -12,7 +12,7 @@ a:hover
 a:visited 
 {
   color: #708090;
-  decoration: none;
+  text-decoration: none;
 }
 
 body
