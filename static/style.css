@@ -34,6 +34,7 @@ body
 li::before 
 {
   content: "X"; /* em dash */
+  font-size: 20px;
 }
 
 .right-side
