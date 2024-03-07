@@ -35,6 +35,7 @@ li::before
 {
   content: "X"; /* em dash */
   font-size: 20px;
+  margin-right: 5px
 }
 
 .right-side
