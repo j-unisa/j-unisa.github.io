@@ -47,6 +47,8 @@ document.addEventListener('DOMContentLoaded', function()
         // Check if the top of the section is within 1/3 of its height from the top of the viewport.
         current_section = section.getAttribute('id');
         // Set the 'current_section' variable to the ID of the section.
+
+        console.log('Current Section:', current_section);
       }
     });
 
@@ -60,7 +62,6 @@ document.addEventListener('DOMContentLoaded', function()
         // Check if the 'href' attribute of the link (excluding the '#' symbol) matches the 'current_section'.
         link.classList.add('active');
         // Add the 'active' class to the link if it matches the current section.
-        console.log('Current Section:', current_section);
       }
     });
   });
