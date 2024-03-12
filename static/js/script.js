@@ -60,6 +60,7 @@ document.addEventListener('DOMContentLoaded', function()
         // Check if the 'href' attribute of the link (excluding the '#' symbol) matches the 'current_section'.
         link.classList.add('active');
         // Add the 'active' class to the link if it matches the current section.
+        console.log('Current Section:', current_section);
       }
     });
   });
