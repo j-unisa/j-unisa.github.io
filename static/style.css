@@ -6,7 +6,7 @@ a
 
 a:hover 
 {
-  color: #708090;
+  color: rgb(200 220 230); /* Whitish Slate */
 }
 
 a:visited 
@@ -16,9 +16,9 @@ a:visited
 
 body
 {
-  background-color: rgb(15 23 42);
+  background-color: rgb(15 23 42); /* Dark Navy */
   font-family: 'Sans-serif', Arial, sans-serif;
-  color: #708090;
+  color: #708090; /* Text Light Gray Slate */
   display: flex;
   margin: 0;
   height: 100vh;
