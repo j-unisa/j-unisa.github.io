@@ -26,7 +26,7 @@ body
 
 .left-side
 {
-  flex: 0 0 200px; /* Fixed width */
+  flex: 0 0 300px; /* Fixed width */
   padding: 100px; /* TODO */
   overflow: hidden; /* Prevent content overflow */
 }
