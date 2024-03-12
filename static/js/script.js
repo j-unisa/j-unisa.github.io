@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function()
   // after the entire HTML document has been loaded and parsed.
 
   const sections = document.querySelectorAll('.section');
-  const navLinks = document.querySelectorAll('nav a');
+  const nav_links = document.querySelectorAll('nav a');
 
   // Get all elements with the class 'section' and all 'a' elements inside 'nav'.
 
@@ -33,31 +33,31 @@ document.addEventListener('DOMContentLoaded', function()
   {
     // This event listener listens for the 'scroll' event on the window.
 
-    let currentSection = '';
+    let current_section = '';
 
     sections.forEach(section => 
     {
       // Iterate through each section.
 
-      const sectionTop = section.offsetTop;
-      const sectionHeight = section.clientHeight;
+      const section_top = section.offsetTop;
+      const section_height = section.clientHeight;
 
-      if (pageYOffset >= sectionTop - sectionHeight / 3) 
+      if (pageYOffset >= section_top - section_height / 3) 
       {
         // Check if the top of the section is within 1/3 of its height from the top of the viewport.
-        currentSection = section.getAttribute('id');
-        // Set the 'currentSection' variable to the ID of the section.
+        current_section = section.getAttribute('id');
+        // Set the 'current_section' variable to the ID of the section.
       }
     });
 
-    navLinks.forEach(link => 
+    nav_links.forEach(link => 
     {
       link.classList.remove('active');
       // Remove the 'active' class from all navigation links.
 
-      if (link.getAttribute('href').slice(1) === currentSection) 
+      if (link.getAttribute('href').slice(1) === current_section) 
       {
-        // Check if the 'href' attribute of the link (excluding the '#' symbol) matches the 'currentSection'.
+        // Check if the 'href' attribute of the link (excluding the '#' symbol) matches the 'current_section'.
         link.classList.add('active');
         // Add the 'active' class to the link if it matches the current section.
       }
