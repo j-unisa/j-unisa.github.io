@@ -38,6 +38,10 @@ li::before
   margin-right: 5px
 }
 
+nav a.active
+{
+  color:rgb(200 220 230);
+}
 .right-side
 {
   flex: 1; /* Allow right side to take remaining width */
