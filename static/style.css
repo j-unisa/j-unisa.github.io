@@ -31,18 +31,6 @@ body
   overflow: hidden; /* Prevent content overflow */
 }
 
-li::before 
-{
-  content: "\2014"; /* em dash */
-  font-size: 20px;
-  margin-right: 5px
-}
-
-nav a.active
-{
-  color:rgb(200 220 230);
-}
-
 .right-side
 {
   flex: 1; /* Allow right side to take remaining width */
