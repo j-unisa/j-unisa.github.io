@@ -27,7 +27,8 @@ body
 .left-side
 {
   flex: 0 0 400px; /* Fixed width */
-  padding: 100px; /* TODO */
+  padding-left: 100px; /* TODO */
+  padding-right:100px;
   overflow: hidden; /* Prevent content overflow */
 }
 
@@ -35,7 +36,7 @@ body
 {
   flex: 1; /* Allow right side to take remaining width */
   overflow-y: auto; /* Enable vertical scrolling */
-  /* TODO: add padding? */
+  padding-right: 100px;/* TODO: add padding? */
 }
 
 section
