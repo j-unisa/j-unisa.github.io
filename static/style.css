@@ -20,7 +20,6 @@ body
   font-family: 'Sans-serif', Arial, sans-serif;
   color: #708090; /* Text Light Gray Slate */
   display: flex;
-  margin: 0;
   height: 100vh;
 }
 
