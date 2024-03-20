@@ -21,14 +21,14 @@ body
   line-height: 3.0;
   color: #708090; /* Text Light Gray Slate */
   display: flex;
+  padding-top: 75px;
   height: 100vh;
 }
 
 .left-side
 {
   flex: 0 0 400px; /* Fixed width */
-  padding-top: 100px;
-  padding-left: 200px; /* TODO */
+  padding-left: 150px; /* TODO */
   padding-right:100px;
   overflow: hidden; /* Prevent content overflow */
 }
