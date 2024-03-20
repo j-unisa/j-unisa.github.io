@@ -18,6 +18,7 @@ body
 {
   background-color: rgb(15 23 42); /* Dark Navy */
   font-family: 'Century Gothic', Arial, sans-serif;
+  line-height: 3.0;
   color: #708090; /* Text Light Gray Slate */
   display: flex;
   height: 100vh;
