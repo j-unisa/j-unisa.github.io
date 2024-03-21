@@ -38,6 +38,7 @@ body
   flex: 1; /* Allow right side to take remaining width */
   overflow-y: auto; /* Enable vertical scrolling */
   padding-right: 200px;/* TODO: add padding? */
+  padding-top: 10px;
 }
 
 section
