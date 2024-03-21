@@ -25,6 +25,11 @@ body
   height: 100vh;
 }
 
+h1
+{
+  margin: 0;
+}
+
 .left-side
 {
   flex: 0 0 400px; /* Fixed width */
