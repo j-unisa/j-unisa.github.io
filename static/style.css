@@ -33,7 +33,7 @@ h1, h2
 .left-side
 {
   flex: 0 0 400px; /* Fixed width */
-  padding-left: 200px; /* TODO */
+  padding-left: 175px; /* TODO */
   padding-right:100px;
   overflow: hidden; /* Prevent content overflow */
 }
