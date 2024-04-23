@@ -25,6 +25,14 @@ body
   height: 100vh;
 }
 
+.bubble 
+{
+  display: inline-block;
+  padding: 10px 15px;
+  border-radius: 20px;
+  background-color: green;
+}
+
 h1, h2
 {
   margin: 0;
