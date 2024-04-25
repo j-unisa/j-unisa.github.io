@@ -1,6 +1,6 @@
 a 
 {
-  color: rgb(230, 235, 240);
+  color: rgb(160, 175, 190);
   text-decoration: none;
 }
 
@@ -11,7 +11,7 @@ a:hover
 
 a:visited 
 {
-  color: rgb(230, 235, 240);
+  color: rgb(160, 175, 190);
 }
 
 body
@@ -19,7 +19,7 @@ body
   background-color: rgb(15, 23, 42); /* Dark Navy */
   font-family: "Century Gothic", Arial, Comfortaa;
   line-height: 2.0;
-  color: rgb(230, 235, 240); /* Text Light Gray Slate */
+  color: rgb(160, 175, 190); /* Text Light Gray Slate */
   display: flex;
   padding-top: 75px;
   height: 100vh;
