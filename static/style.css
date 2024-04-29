@@ -1,14 +1,15 @@
 a 
 {
+  color: rgb(145, 153, 186); /* Text Light Gray Slate */
   text-decoration: none;
 }
 
-a:hover 
+a.special-white:hover 
 {
   color: rgb(223, 227, 245); /* Whitish Slate */
 }
 
-a.special:hover
+a.special-teal:hover
 {
   color: rgb(120, 215, 208); /* Light Teal Blue */
 }
