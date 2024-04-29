@@ -41,6 +41,11 @@ h1, h2
   overflow: hidden; /* Prevent content overflow */
 }
 
+#light-gray
+{
+  color: rgb(163, 171, 207);
+}
+
 .right-side
 {
   flex: 1; /* Allow right side to take remaining width */
