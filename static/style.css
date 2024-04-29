@@ -6,7 +6,7 @@ a
 
 a:hover 
 {
-  color: rgb(200 220 230); /* Whitish Slate */
+  color: rgb(237, 242, 245); /* Whitish Slate */
 }
 
 a:visited 
@@ -77,7 +77,7 @@ section
 
 .whitish-slate
 {
-  color: rgb(200 220 230);
+  color: rgb(237, 242, 245);
 }
 
 ul
