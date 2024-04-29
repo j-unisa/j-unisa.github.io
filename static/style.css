@@ -1,17 +1,6 @@
-a 
-{
-  color: rgb(172, 182, 189);
-  text-decoration: none;
-}
-
 a:hover 
 {
   color: rgb(237, 242, 245); /* Whitish Slate */
-}
-
-a:visited 
-{
-  color: rgb(172, 182, 189);
 }
 
 body
