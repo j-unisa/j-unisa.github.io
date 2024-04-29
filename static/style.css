@@ -5,10 +5,10 @@ a:hover
 
 body
 {
-  background-color: rgb(27, 38, 77); /* Dark Navy */
+  background-color: rgb(21, 30, 61); /* Dark Navy */
   font-family: "Century Gothic", Arial, Comfortaa;
   line-height: 2.0;
-  color: rgb(197, 198, 201); /* Text Light Gray Slate */
+  color: rgb(137, 142, 161); /* Text Light Gray Slate */
   display: flex;
   padding-top: 75px;
   height: 100vh;
