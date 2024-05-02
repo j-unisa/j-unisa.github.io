@@ -17,7 +17,7 @@ a.special-teal:hover
 body
 {
   background-color: rgb(4, 22, 43); /* Dark Navy */
-  font-family: "Century Gothic", Copperplate, Heiti SC, Niramit;
+  font-family: "Century Gothic", Didact Gothic, Copperplate, Heiti SC, Niramit;
   line-height: 2.0;
   color: rgb(152, 158, 184); /* Text Light Gray Slate */
   display: flex;
