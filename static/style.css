@@ -36,17 +36,20 @@ body
 
 h1
 {
+  color: rgb(223, 227, 245); /* Whitish Slate */
   font-weight: 600;
   margin: 0;
 }
 
 h2
 {
+  color: rgb(223, 227, 245); /* Whitish Slate */
   margin: 0;
 }
 
 h3
 {
+  color: rgb(223, 227, 245); /* Whitish Slate */
   font-weight: 600;
 }
 
