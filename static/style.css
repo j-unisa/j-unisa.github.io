@@ -76,6 +76,11 @@ h3
   color: rgb(163, 171, 207);
 }
 
+.no-padding
+{
+  padding: 0;
+}
+
 .right-side
 {
   flex: 1; /* Allow right side to take remaining width */
