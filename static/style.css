@@ -39,7 +39,7 @@ body
 h1
 {
   color: rgb(223, 227, 245); /* Whitish Slate */
-  font-weight: 600;
+  font-weight: bold;
   margin: 0;
 }
 
@@ -52,7 +52,7 @@ h2
 h4
 {
   color: rgb(223, 227, 245); /* Whitish Slate */
-  font-weight: 600;
+  font-weight: bold;
   margin-top: 0;
 }
 
