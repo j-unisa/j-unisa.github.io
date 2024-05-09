@@ -17,7 +17,7 @@ a.special-teal:hover
 body
 {
   background-color: rgb(4, 22, 43); /* Dark Navy */
-  font-family: "Century Gothic", Didact Gothic, Copperplate, Heiti SC, Niramit;
+  font-family: "Century Gothic", Didact Gothic, Heiti SC;
   line-height: 2.0;
   color: rgb(152, 158, 184); /* Text Light Gray Slate */
   display: flex;
@@ -28,7 +28,7 @@ body
 #bubble 
 {
   display: inline-block;
-  padding: 1px 15px;
+  padding: 1px 12px;
   border-radius: 15px;
   background-color: rgb(0, 41, 50); /* Dark Teal */
   color: rgb(120, 215, 208); /* Light Teal Blue */
