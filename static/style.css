@@ -93,6 +93,11 @@ section
   padding-bottom: 100px;
 }
 
+.small-text
+{
+  font-size: 13px;
+}
+
 /* Top right links class */
 .top-right-links 
 {
