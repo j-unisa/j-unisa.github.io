@@ -7,7 +7,6 @@ a
 a.special-white:hover 
 {
   color: rgb(223, 227, 245); /* Whitish Slate */
-  font-size: 13px;
 }
 
 a.special-teal:hover
