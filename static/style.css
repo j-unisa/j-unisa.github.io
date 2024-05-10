@@ -36,6 +36,11 @@ body
   width: auto;
 }
 
+.xsmall-text
+{
+  font-size: 13px;
+}
+
 h1
 {
   color: rgb(223, 227, 245); /* Whitish Slate */
