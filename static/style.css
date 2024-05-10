@@ -6,7 +6,7 @@ a
 
 a.special-white:hover 
 {
-  color: rgb(223, 227, 245); /* Whitish Slate */
+  color: rgb(240, 241, 245); /* Whitish Slate */
 }
 
 a.special-teal:hover
@@ -43,20 +43,20 @@ body
 
 h1
 {
-  color: rgb(223, 227, 245); /* Whitish Slate */
+  color: rgb(240, 241, 245); /* Whitish Slate */
   font-weight: bold;
   margin: 0;
 }
 
 h2
 {
-  color: rgb(223, 227, 245); /* Whitish Slate */
+  color: rgb(240, 241, 245); /* Whitish Slate */
   margin: 0;
 }
 
 h3
 {
-  color: rgb(223, 227, 245); /* Whitish Slate */
+  color: rgb(240, 241, 245); /* Whitish Slate */
   font-weight: bold;
   margin-top: 30px;
   margin-bottom: 0;
@@ -126,7 +126,7 @@ section
 
 .whitish-slate
 {
-  color: rgb(223, 227, 245);
+  color: rgb(240, 241, 245);
 }
 
 ul
