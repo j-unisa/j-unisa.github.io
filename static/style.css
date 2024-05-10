@@ -1,6 +1,6 @@
 a 
 {
-  color: rgb(145, 153, 186); /* Text Light Gray Slate */
+  color: rgb(142, 148, 173); /* Text Light Gray Slate */
   text-decoration: none;
 }
 
@@ -19,7 +19,7 @@ body
   background-color: rgb(4, 22, 43); /* Dark Navy */
   font-family: "Century Gothic", Didact Gothic, Heiti SC;
   line-height: 2.0;
-  color: rgb(152, 158, 184); /* Text Light Gray Slate */
+  color: rgb(142, 148, 173); /* Text Light Gray Slate */
   display: flex;
   padding-top: 75px;
   height: 100vh;
@@ -72,7 +72,7 @@ h3
 
 #light-gray
 {
-  color: rgb(163, 171, 207);
+  color: rgb(142, 148, 173);
 }
 
 .new-line
