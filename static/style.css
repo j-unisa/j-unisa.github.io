@@ -47,12 +47,8 @@ p { margin-top: 0; margin-bottom: 20px; }
     flex: 1;
     overflow-y: auto; /* Scrollable */
     padding-right: 200px;
-
-    /* CHANGED: Huge padding allows the last section to scroll to top */
-    padding-bottom: 80vh;
+    padding-bottom: 50px;
 }
-
-
 
 section {
     margin-top: 20px;
@@ -121,4 +117,8 @@ ul { list-style-type: none; padding: 0; }
     }
 
     h1 { font-size: 36px !important; }
+}
+
+section:last-of-type {
+    margin-bottom: 90vh; /* Force huge empty space after the last section */
 }
