@@ -47,8 +47,12 @@ p { margin-top: 0; margin-bottom: 20px; }
     flex: 1;
     overflow-y: auto; /* Scrollable */
     padding-right: 200px;
-    padding-bottom: 50px;
+
+    /* CHANGED: Huge padding allows the last section to scroll to top */
+    padding-bottom: 80vh;
 }
+
+
 
 section {
     margin-top: 20px;
@@ -112,12 +116,8 @@ ul { list-style-type: none; padding: 0; }
     }
 
     .right-side {
-        flex: 1;
-        overflow-y: auto; /* Scrollable */
-        padding-right: 200px;
-        
-        /* CHANGED: Huge padding allows the last section to scroll to top */
-        padding-bottom: 80vh; 
+        padding: 0 40px;
+        overflow-y: visible;
     }
 
     h1 { font-size: 36px !important; }
